@@ -1,0 +1,10 @@
+Métrica,Valor
+Facturas generadas,1000
+Facturas procesadas,460
+Facturas en cola,540
+Disponibilidad (%),46.0
+
+Servidor,Estado,Carga,Capacidad
+Servidor 1,Activo,100,100
+Servidor 2,Activo,100,100
+Servidor 3,Activo,100,100
