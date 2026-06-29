@@ -1,0 +1,13 @@
+Métrica,Valor
+Solicitudes generadas,1220
+Solicitudes procesadas,610
+Solicitudes en cola,320
+Solicitudes limitadas por API key,290
+Disponibilidad efectiva (%),65.59
+Cliente con mayor consumo,Cliente Grande API
+
+Servidor,Grupo,Estado,Carga,Capacidad
+Servidor Compartido 1,compartido,Activo,150,150
+Servidor Compartido 2,compartido,Activo,150,150
+Servidor Compartido 3,compartido,Caído,0,150
+Servidor Dedicado Crítico,dedicado,Activo,160,180
